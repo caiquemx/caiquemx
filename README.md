@@ -9,7 +9,7 @@ Humans interactions are the any society base. I'm looking forward to improve the
 # 💫 About Me:
 * 🌍  I'm based in Salto, SP - Brazil
 * ✉️  You can contact me at [caique\_moreira\_sz@hotmail.com](mailto:caique_moreira_sz@hotmail.com)
-* 🧠  I'm learning MongoDB and POO with typescript
+* 🧠  I'm learning tailwindcss
 
 
 ## 🌐 Socials:
